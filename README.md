@@ -14,6 +14,7 @@ A curated list of machine learning resources relevant to research at Jefferson L
 
 - ["A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning"](https://arxiv.org/abs/1012.2599) [49 pages]
 - ["A Tutorial on Bayesian Optimization"](https://arxiv.org/abs/1807.02811) [22 pages]
+- ["Bayesian Methods in Nuclear Physics"](http://www.int.washington.edu/PROGRAMS/16-2a/) [INT Workshop with posted slides] 
 
 ### Gaussian Processes
 
